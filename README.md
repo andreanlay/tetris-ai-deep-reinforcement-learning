@@ -17,6 +17,6 @@ Full video [link](https://www.youtube.com/watch?v=Sppq_rtr9mg)
 ### Prerequisites
 
 * Python 3.8
-* Tensorflow
-* Keras
-* OpenCV
+* Tensorflow 2.1.1
+* Keras 2.4.0
+* OpenCV 4.3.0
